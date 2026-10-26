@@ -1,0 +1,7 @@
+{
+  "name": "No Nef Knockback",
+  "description": "Removes knockback from the Nef rune in weapons (Black, Melody, Obsession).",
+  "author": "Juan Pablo Barrientos",
+  "website": "https://github.com/Juan-Pablo-Barrientos/d2r-no-nef-knockback",
+  "version": "1.0.0"
+}
